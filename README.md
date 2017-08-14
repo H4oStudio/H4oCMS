@@ -44,13 +44,12 @@ Tareas para version H4o:
 
 ## Flujo de trabajo
   - Definir un flujo de trabajo mas adaptado:
-  	- Diseño
-	  - PSD (Movil first)
-  	  - Style tiles
-          - Estructura de contenido (tipo de paginas/contextos/modelos/bloques)
-          - Definir necesidad de modulos "Entity"      
-  	- Integracion html statica ?
-  	- Traspaso de html/css/js a CMS
+    - Diseño
+    - Style tiles
+    - Estructura de contenido (tipo de paginas/contextos/modelos/bloques
+    - Definir necesidad de modulos "Entity"      
+  - Integracion html statica ?
+  - Traspaso de html/css/js a CMS
 
 
 
