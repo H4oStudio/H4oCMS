@@ -37,7 +37,7 @@ Tareas para version H4o:
  - generar controller para API front/back (impacta back-end)
 
 ## Capacitación
-	- pensar en componentes independientes
+  - pensar en componentes independientes
   - practicar symfony 3.x (bundles, controller, DI, services, entities, authentication/authorization)
   - practicar webpack ???
   - practicar ember
@@ -45,10 +45,10 @@ Tareas para version H4o:
 ## Flujo de trabajo
   - Definir un flujo de trabajo mas adaptado:
   	- Diseño
-  		- Style tiles
-      - Estructura de contenido (tipo de paginas/contextos/modelos/bloques)
-  		- Definir necesidad de modulos "Entity"
-      
+	  - PSD (Movil first)
+  	  - Style tiles
+          - Estructura de contenido (tipo de paginas/contextos/modelos/bloques)
+          - Definir necesidad de modulos "Entity"      
   	- Integracion html statica ?
   	- Traspaso de html/css/js a CMS
 
